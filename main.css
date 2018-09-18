@@ -1,3 +1,21 @@
 body {
-  background-color: tomato;
+  background-color: olivedrab;
+  color: black;
+  font-family: 'Pacifico', cursive;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.large {
+  font-size: 120px;
+}
+
+.bordered {
+  border: 25px solid slateblue;
+}
+
+.rounded {
+  border-radius: 25px;
 }
